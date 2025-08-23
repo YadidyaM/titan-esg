@@ -1,0 +1,28 @@
+{
+  "name": "titan-esg-backend",
+  "description": "Titan ESG Platform Backend API",
+  "repository": "https://github.com/yourusername/titanesg",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "nestjs", "esg", "sustainability", "ai"],
+  "env": {
+    "NODE_ENV": {
+      "description": "Environment setting",
+      "value": "production"
+    },
+    "PORT": {
+      "description": "Port for the application",
+      "value": "3000"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
