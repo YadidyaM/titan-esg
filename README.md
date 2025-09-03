@@ -147,9 +147,9 @@ NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key_here
 NEXT_PUBLIC_CRYPTO_CREDIT_CONTRACT=your_contract_address_here
 
 # Property Data APIs
-EPC_KEY=32c3c4979f4bf02ea00be456a3b840ec272dca44
-PROPERTY_DATA_API_KEY=RPEMJFQNOR
-USE_LAND_PROPERTY_API_KEY=a84446ee-20b8-49e2-b618-d7a67075897
+EPC_KEY=
+PROPERTY_DATA_API_KEY=
+USE_LAND_PROPERTY_API_KEY=
 ```
 
 **Backend (.env):**
@@ -160,7 +160,7 @@ NODE_ENV=development
 FRONTEND_URL=http://localhost:3000
 
 # Database
-MONGODB_URI=mongodb://localhost:27017/titan-esg
+MONGODB_URI=
 
 # AI Configuration
 OPENAI_API_KEY=your_openai_api_key_here
@@ -168,9 +168,9 @@ OPENAI_MODEL=gpt-4-turbo-preview
 
 # Blockchain Configuration
 WEB3_PROVIDER_URL=https://polygon-amoy.g.alchemy.com/v2/your_key
-CHAIN_ID=80002
+CHAIN_ID=
 WEB3_PRIVATE_KEY=your_private_key_here
-CARBON_CREDIT_CONTRACT_ADDRESS=0x851a15a57F6fE3E2390e386664C7d9fC505Ca207
+CARBON_CREDIT_CONTRACT_ADDRESS
 ```
 
 ### 4️⃣ Start Development
