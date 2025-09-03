@@ -189,26 +189,6 @@ Navigate to [http://localhost:3000](http://localhost:3000) 🎉
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-### 📊 Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=ESG+Dashboard+Overview)
-
-### 📈 Analytics & Charts
-![Analytics](https://via.placeholder.com/800x400/10b981/ffffff?text=Real-time+Analytics)
-
-### 🤖 AI Analysis
-![AI Analysis](https://via.placeholder.com/800x400/8b5cf6/ffffff?text=AI-Powered+Insights)
-
-### 🔗 Blockchain Integration
-![Blockchain](https://via.placeholder.com/800x400/f59e0b/ffffff?text=Carbon+Credits+Management)
-
-</div>
-
----
-
 ## 🎮 How to Use
 
 ### 📁 Upload ESG Data
